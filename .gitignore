@@ -1,0 +1,4 @@
+#ignoring files
+*.o
+*.win
+*.exe
