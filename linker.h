@@ -1,13 +1,13 @@
 #include <iostream>
-#include "excersises/ex65_3.h"
+#include "excersises/ex65.h"
 using namespace std;
 void linker(char* example_h ,char* file){
 	
 	if(!example_h){
 			cerr << "Error-Undefined example";
         exit(1);
-	}else if(strcmp(example_h,"65_3")==0){
-		ex65_3 kva;
+	}else if(strcmp(example_h,"65")==0){
+		ex65 kva;
     	kva.start(file);
     	exit(0);
 	}

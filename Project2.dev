@@ -71,7 +71,7 @@ OverrideBuildCmd=0
 BuildCmd=
 
 [Unit3]
-FileName=excersises\ex65_3.cpp
+FileName=excersises\ex65.cpp
 CompileCpp=1
 Folder=excersises
 Compile=1
@@ -81,7 +81,7 @@ OverrideBuildCmd=0
 BuildCmd=
 
 [Unit4]
-FileName=excersises\ex65_3.h
+FileName=excersises\ex65.h
 CompileCpp=1
 Folder=excersises
 Compile=1
